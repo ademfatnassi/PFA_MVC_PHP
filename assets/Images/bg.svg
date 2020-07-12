@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1918.182" height="1010.095" viewBox="0 0 1918.182 1010.095">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b7ebe9;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" y1="0.976" x2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3b807e" />
+      <stop offset="1" stop-color="#75ffac" />
+    </linearGradient>
+  </defs>
+  <g id="bg" transform="translate(0)">
+    <path id="Tracé_192" data-name="Tracé 192" class="cls-1" d="M0,0H1918.182V748.485s-230.206-.207-407.124,136.107S1163.021,936.8,864.29,861.39,504.653,991.9,287.13,919.4,0,748.485,0,748.485Z" transform="translate(0 53)" />
+    <path id="Tracé_1" data-name="Tracé 1" class="cls-2" d="M0,0H1918.182V748.485s-230.206-.207-407.124,136.107S1163.021,936.8,864.29,861.39,504.653,991.9,287.13,919.4,0,748.485,0,748.485Z" />
+  </g>
+</svg>
